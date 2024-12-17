@@ -1,2 +1,2 @@
-# Tele_Churn_Prediction
+# Tele-Churn-Prediction
 Predicting Customer Churn using Machine Learning
